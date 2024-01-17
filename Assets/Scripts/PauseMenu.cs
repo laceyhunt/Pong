@@ -17,4 +17,7 @@ public class helpMenu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         Time.timeScale = 1;
     }
+    public void Quit() {
+        Application.Quit();
+    }
 }
