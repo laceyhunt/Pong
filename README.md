@@ -18,10 +18,8 @@ Updating the code will require a new build. Follow these steps if Unity is not a
    - Follow the installation guide to complete the download.
 5. Open Unity or start a new project if you haven't already.
 6. Select the open file option in the top right corner.
-7. Choose the folder where the zip files were extracted.
-8. Unity editor for Pong should open.
-9. In the top left corner, select `File -> Build & Run`.
-10. Unity will compile everything into necessary files, creating a Pong application file.
+7. Select the file where the zip files were extracted to. The Unity editor for Pong should open.
+10. In the top left corner, select `File -> Build & Run`.
 
 **Note:** Unity creates additional files and folders that must be in the same directory as the Pong application for the game to run.
 
