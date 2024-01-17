@@ -12,16 +12,16 @@ Pong in Unity
 
 Updating the code will require a new build. Follow these steps if Unity is not already installed:
 
-1. Download the .zip file from BBLearn.
-2. Extract the contents of the zipped file into a new folder.
-3. Download Unity from [https://store.unity.com/download-nuo](https://store.unity.com/download-nuo).
+1. Download the .zip file above by clicking 'Code' then 'Download ZIP'.
+3. Extract the contents of the zipped file into a new folder.
+4. Download Unity from [here](https://store.unity.com/download-nuo).
    - Follow the installation guide to complete the download.
-4. Open Unity or start a new project if you haven't already.
-5. Select the open file option in the top right corner.
-6. Choose the folder where the zip files were extracted.
-7. Unity editor for Pong should open.
-8. In the top left corner, select `File -> Build & Run`.
-9. Unity will compile everything into necessary files, creating a Pong application file.
+5. Open Unity or start a new project if you haven't already.
+6. Select the open file option in the top right corner.
+7. Choose the folder where the zip files were extracted.
+8. Unity editor for Pong should open.
+9. In the top left corner, select `File -> Build & Run`.
+10. Unity will compile everything into necessary files, creating a Pong application file.
 
 **Note:** Unity creates additional files and folders that must be in the same directory as the Pong application for the game to run.
 
