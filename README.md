@@ -2,7 +2,7 @@
 Pong in Unity
 ## Quick Launch:
 
-1. Double click the `pong.exe` file to run the game.
+1. Download and double click the `pong.exe` file to run the game.
    - Check "windowed" in the "pong configuration" menu for easier program closure.
 2. Use your arrow keys to move your paddle (right) up or down to bounce the ball to your opponent (left).
 3. At any time, click the "?" icon in the top right and a help menu will be displayed. From there, you can resume or restart your match or exit the game.
